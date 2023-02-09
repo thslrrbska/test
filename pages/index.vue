@@ -16,7 +16,7 @@ export default defineComponent({
   },
   methods: {
     test: function() {
-      console.log('Pull Request test2');
+      console.log('Pull Request test24');
     }
   }
 })
