@@ -16,7 +16,7 @@ export default defineComponent({
   },
   methods: {
     test: function() {
-      console.log('Pull Request test244435d');
+      console.log('Pull Request test2444353333d');
     }
 
   }
@@ -26,7 +26,7 @@ export default defineComponent({
 <style scoped>
   .a {
     background-color: aquamarine;
-    padding: 20px
+    padding: 20px;
   }
 
   .b {
