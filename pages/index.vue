@@ -26,7 +26,7 @@ export default defineComponent({
 <style scoped>
   .a {
     background-color: aquamarine;
-    padding: 20px
+    padding: 20px;
   }
 
   .b {
